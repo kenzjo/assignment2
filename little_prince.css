@@ -1,13 +1,13 @@
-#1 {
+p1 {
   text-decoration: underline;
 }
-#2 {
+p2 {
   background-color:orange;
   color:black;
 }
-#3, #4 {
+p3, p4 {
   color:red;
 }
-#5 {
+p5 {
   text-decoration:underline;
 }
